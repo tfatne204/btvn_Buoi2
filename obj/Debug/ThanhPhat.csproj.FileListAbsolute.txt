@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\ThanhPhat\ThanhPhat\bin\Debug\ThanhPhat.exe.config
+C:\Users\DELL\source\repos\ThanhPhat\ThanhPhat\bin\Debug\ThanhPhat.exe
+C:\Users\DELL\source\repos\ThanhPhat\ThanhPhat\bin\Debug\ThanhPhat.pdb
+C:\Users\DELL\source\repos\ThanhPhat\ThanhPhat\obj\Debug\ThanhPhat.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ThanhPhat\ThanhPhat\obj\Debug\ThanhPhat.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ThanhPhat\ThanhPhat\obj\Debug\ThanhPhat.exe
+C:\Users\DELL\source\repos\ThanhPhat\ThanhPhat\obj\Debug\ThanhPhat.pdb
